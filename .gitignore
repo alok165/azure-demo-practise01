@@ -1,0 +1,10 @@
+# Logs
+logs
+*.log
+.terraform
+*.tfstate*
+auth.tfvars.json
+command.txt
+*plan
+**/.terraform/*
+*.exe
